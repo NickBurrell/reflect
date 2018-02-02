@@ -1,0 +1,8 @@
+[package]
+name = "reflect"
+version = "0.1.0"
+authors = ["Nicholas Burrell <zero_frost@protonmail.com>"]
+
+[dependencies]
+syn = "0.11.11"
+quote = "0.3.15"
